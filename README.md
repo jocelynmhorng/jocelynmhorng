@@ -4,11 +4,17 @@ Product designer and builder specializing in complex B2B and AI-powered experien
 Currently designing at Oracle NetSuite, where I shipped Intelligent Payment Automation —
 a 0-to-1 AI financial product launched at SuiteWorld 2025.
 
-I'm fluent in AI tools (Claude Code, Codex, Cursor, Figma Make) and build my own
-applications outside of work.
 
 **Portfolio:** [jomho.work](https://jomho.work)
+
 **LinkedIn:** [linkedin.com/in/jocelyn-horng](https://linkedin.com/in/jocelyn-horng)
+
+Tools and Skills:
+**Design:** Figma, Figma AI, Figma Make, Adobe CC
+
+**Code:** HTML, CSS, JavaScript, React, Python
+
+**AI:** Claude Code, Codex, Cursor, ChatGPT, Vercel
 
 ---
 
