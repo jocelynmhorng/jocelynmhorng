@@ -4,6 +4,7 @@ Product designer and builder specializing in complex B2B and AI-powered experien
 Currently at Oracle NetSuite, creating fun apps on the side.
 
 **Portfolio:** [jomho.work](https://jomho.work)
+
 **LinkedIn:** [linkedin.com/in/jocelyn-horng](https://linkedin.com/in/jocelyn-horng)
 
 ---
@@ -11,7 +12,9 @@ Currently at Oracle NetSuite, creating fun apps on the side.
 ## Tools & Skills
 
 **Design:** Figma, Figma AI, Figma Make, Adobe CC
+
 **Code:** HTML, CSS, JavaScript, React, Python
+
 **AI:** Claude Code, Codex, Cursor, ChatGPT, Vercel
 
 ---
