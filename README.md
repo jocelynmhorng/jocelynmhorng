@@ -24,7 +24,7 @@ Tools and Skills:
 |---|---|---|
 | [mood-year-recap](https://github.com/jocelynmhorng/mood-year-recap) | A digital Year in Pixels — log your daily mood and watch a year of abstract pixel art take shape | [mood-year-recap.vercel.app](https://mood-year-recap.vercel.app) |
 | [poodle-character](https://github.com/jocelynmhorng/poodle-character) | A pixel sprite generator for my poodle Tia | [tia-poodle.vercel.app](https://tia-poodle.vercel.app) |
-| [cat-collector](https://github.com/jocelynmhorng/cat-collector) | A cat journal app — photograph cats you meet and track them over time | [—](https://cat-collector-eight.vercel.app/) |
+| [cat-collector](https://github.com/jocelynmhorng/cat-collector) | A cat journal app — photograph cats you meet and track them over time | [cat-collector-eight.vercel.app](https://cat-collector-eight.vercel.app/) |
 
 ---
 
