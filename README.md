@@ -1,8 +1,7 @@
 # Hi, I'm Jocelyn 👋
 
 Product designer and builder specializing in complex B2B and AI-powered experiences.
-Currently designing at Oracle NetSuite, where I shipped Intelligent Payment Automation —
-a 0-to-1 AI financial product launched at SuiteWorld 2025.
+Currently designing at Oracle NetSuite.
 
 
 **Portfolio:** [jomho.work](https://jomho.work)
